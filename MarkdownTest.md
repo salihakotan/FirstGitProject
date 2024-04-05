@@ -22,3 +22,19 @@
 :smiley:
 :heart:
 :star:
+
+## Code
+
+`console.log("Hello, World!");`
+
+``` css
+body {
+    background-color: #000000;
+}
+```
+
+``` cs
+int number1;
+int number2;
+int total;
+```
